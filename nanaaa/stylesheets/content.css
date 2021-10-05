@@ -1,0 +1,42 @@
+h1
+{
+  font-size: 48px;
+  color: #0000ff;
+}
+p
+{
+  width: 90%;
+}
+h2
+{
+  font-weight: normal;
+}
+p,h3,h4,h5,li
+{
+  font-family: sans-serif;
+}
+body
+{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.quote
+{
+  font-style: italic;
+  padding: 2%;
+  margin-left: 2%;
+  background: #eeeeee;
+}
+.content
+{
+  background: #eeeeee;
+ border: 1px solid #666666;
+  width: 30%;
+}
+.content li
+{font-size: 10pt;}
+
+a {text-decoration: none;}
+ul li {list-style-type: none;}
+.content h5
+{text-align: center;}
